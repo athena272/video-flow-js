@@ -3,8 +3,8 @@ const containerVideos = document.querySelector(".videos__container");
 
 async function buscarEMostrarVideos() {
     try {
-        const busca = await fetch("http://localhost:3000/videos");
-        const videos = await busca.json();
+        const busca = await fetch("https://athena272.github.io/video-flow-js/videos.json");
+        const { videos } = await busca.json();
 
         videos.forEach((video) => {
             if (video.categoria == "") {
