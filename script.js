@@ -27,9 +27,7 @@ async function buscarEMostrarVideos() {
     }
 }
 
-
 buscarEMostrarVideos();
-
 
 const barraDePesquisa = document.querySelector(".pesquisar__input");
 
