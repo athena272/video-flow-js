@@ -10,6 +10,8 @@ Uma aplicação web simples que simula uma plataforma de exibição de vídeos, 
 
 ![Preview do projeto](./img/VidFlow--Logo-light-mode.png)
 
+![image](https://github.com/user-attachments/assets/6640bee9-380a-48fc-8e92-8a0e9b189799)
+
 ## ✨ Funcionalidades
 
 - Interface responsiva para listagem de vídeos.
